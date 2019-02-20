@@ -82,3 +82,4 @@ cetak (x) dan (e)
 - [x] cetak total
 
 # **output**
+![untitled7](https://user-images.githubusercontent.com/46892500/53070397-9c080c00-3511-11e9-85b3-614108ac3f7f.jpg)
